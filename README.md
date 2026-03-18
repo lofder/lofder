@@ -1,4 +1,6 @@
-### lofder
+<p align="center">
+  <img src="banner.svg" alt="lofder" width="100%"/>
+</p>
 
 做 AI agent 相关的基础设施和工具，也做跨境电商的自动化。
 
