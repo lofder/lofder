@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="banner.svg" alt="lofder" width="100%"/>
+  <img src="banner.png" alt="Silent Rill" width="100%"/>
 </p>
 
 做 AI agent 相关的基础设施和工具，也做跨境电商的自动化。
@@ -21,4 +21,4 @@ Building infrastructure and tooling around AI agents. Also working on automation
 
 ---
 
-`MCP` `AI agent` `multi-agent` `memory architecture` `gateway` `WebSocket` `OpenClaw` `Mem0` `Qdrant` `dropshipping` `DSers` `Shopify` `AliExpress` `e-commerce automation` `cross-border`
+`MCP` `MCP server` `AI agent` `multi-agent` `agent memory` `memory architecture` `scope isolation` `gateway` `WebSocket` `session management` `reconnect` `stability patch` `overlay` `OpenClaw` `Mem0` `Qdrant` `vector database` `dropshipping` `DSers` `Shopify` `AliExpress` `e-commerce automation` `cross-border e-commerce` `product import` `bulk edit` `variant mapping` `order automation` `Python` `Node.js` `TypeScript` `open source` `developer tools` `infrastructure` `distributed systems`
