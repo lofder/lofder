@@ -10,7 +10,7 @@ Building infrastructure and tooling around AI agents. Also working on automation
 
 **AI Agent Infra**
 
-- [Engram](https://github.com/lofder/smart-memory-gateway) — multi-agent memory with scope isolation. Mem0, Qdrant, MCP.
+- [Engram](https://github.com/lofder/Engram) — multi-agent memory with scope isolation. Mem0, Qdrant, MCP.
 - [Durable Gateway Runtime](https://github.com/lofder/durable-gateway-runtime) — multi-channel gateway execution model. WebSocket, reconnect, session lifecycle.
 - [OpenClaw Gateway Stability Patch](https://github.com/lofder/openclaw-gateway-stability-patch) — rule-based overlay for gateway WebSocket handshake stability. Python, zero deps.
 
